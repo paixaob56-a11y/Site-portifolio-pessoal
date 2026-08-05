@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Seu Nome] | Portfólio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f4f4f4; color: #333; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 10px; }
+        h1 { color: #6a0dad; }
+        h2 { color: #8a2be2; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .btn { display: inline-block; background: #6a0dad; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Olá, eu sou [Brenda Soares] 👋</h1>
+        <p>Estudante de Análise e Desenvolvimento de Sistemas apaixonada por criar coisas para a web.</p>
+        
+        <h2>Sobre Mim</h2>
+        <p>Estou em formação e construindo meu primeiro portfólio para documentar meu aprendizado em HTML, CSS e JavaScript.</p>
+
+        <h2>Meus Projetos</h2>
+        <p><b>Site Portfólio Pessoal</b> - Este site que você está vendo agora! 😊</p>
+        
+        <h2>Contato</h2>
+        <p>Vamos nos conectar!</p>
+        <a href="https://github.com/paixaob56-a11y" class="btn">Meu GitHub</a>
+        <a href="[SEU LINKEDIN]" class="btn">em construção</a>
+    </div>
+</body>
+</html>

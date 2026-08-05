@@ -1,36 +1,29 @@
-# 🌐 Site Portfólio Pessoal Responsivo
+# 👋 Olá! Eu sou Brenda Soares
 
-Olá! Seja bem-vindo(a) ao meu primeiro projeto 🚀
+Bem-vindo(a) ao meu perfil do GitHub! 
+Estou em formação em Análise e Desenvolvimento de Sistemas e aqui documento minha jornada de aprendizado em Desenvolvimento Web e Mobile.
 
-### 🎯 Objetivo do Projeto
-Criar uma página web para apresentar minhas habilidades como estudante de Análise e Desenvolvimento de Sistemas. 
-Este projeto é o início da minha jornada como Desenvolvedora Web e Mobile.
+## 🚀 Sobre Mim
+Estudante apaixonada por tecnologia e por criar soluções na web. 
+Atualmente estudando os fundamentos do Front-end e buscando minha primeira oportunidade na área de TI.
 
-**Objetivo principal:** Ter um espaço profissional para mostrar meus estudos e projetos.
+## 📂 Meus Projetos
+### 1. Site Portfólio Pessoal Responsivo
+Meu primeiro projeto. Um site one-page para apresentar minhas habilidades e trajetória.
+**Objetivo:** Criar uma presença online profissional.
+**Tecnologias:** HTML5, CSS3, JavaScript, Git, GitHub
+**Status:** Em desenvolvimento
+**Repositório:** https://github.com/paixaob56-a11y/Site-portifolio-pessoal
 
----
+## 🌱 O que estou estudando agora
+- HTML5 e CSS3 Avançado
+- Lógica de Programação com JavaScript
+- Git e GitHub
+- Princípios de UX/UI
 
-### 🛠️ Tecnologias que estou estudando
-- **HTML5**: Estrutura da página
-- **CSS3**: Estilização e Responsividade 
-- **JavaScript**: Interatividade
-- **Git e GitHub**: Versionamento
-
----
-
-### 📚 O que estou aprendendo
-1.  Como estruturar um site do zero
-2.  Design responsivo para funcionar no celular
-3.  Como usar o Git e GitHub para guardar meu código
-4.  A importância de documentar um projeto
-
----
-
-### 🚀 Status
-🚧 **Em desenvolvimento**  
-Estou construindo esse site durante meus estudos. Em breve o link do site publicado vai estar aqui!
+## 📫 Vamos nos conectar?
+Estou aberta a feedbacks, dicas e networking!
+LinkedIn: em construção
 
 ---
-
-### 📫 Vamos nos conectar?
-em construção
+"Obrigada por visitar meu perfil. Cada commit é um passo a mais na minha carreira."
